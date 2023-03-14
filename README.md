@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work on React projects
+As a developer, i have skills in React, designing, creating, and maintaining software applications and systems.
 
 
 ## 🌐 Socials:
