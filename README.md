@@ -1,5 +1,7 @@
 # 💫 About Me:
-As a developer, i have skills in React, designing, creating, and maintaining software applications and systems.
+As a developer, 
+I have skills in React, creating, and maintaining software applications and systems.
+ 
 
 
 ## 🌐 Socials:
