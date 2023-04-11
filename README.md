@@ -1,7 +1,7 @@
 # 💫 About Me:
 hello. My name is Joaquim 
 I develop React, creating, and maintaining software applications and systems.
-and I also develop web and graphic design projects
+and I also develop web and graphic design projects </br>
 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaquimfranca&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimfranca&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
